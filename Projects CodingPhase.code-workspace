@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "scenario1"
+		},
+		{
+			"path": "../Downloads/scenario2"
+		},
+		{
+			"path": "../Downloads/scenario3"
+		},
+		{
+			"path": "../Downloads/scenario4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "scenario4"
+	}
+}
